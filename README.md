@@ -15,3 +15,6 @@
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent
 - 📝&nbsp; Ask me about anything, I am happy to help
 
+![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+
+

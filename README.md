@@ -10,9 +10,9 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
 
 <br /> -->
-![image]({[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)})
 
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: yodgorbek.ahmedov [instagram]
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white

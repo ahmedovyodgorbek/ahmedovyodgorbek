@@ -13,6 +13,6 @@
 
 <br /> -->
 
-- 📍 &nbsp; Current location: Uzbekistan Anywhere
+- 📍 &nbsp; Current location: Uzbekistan, Tashkent
 - 📝&nbsp; Ask me about anything, I am happy to help
 - 📨&nbsp; How to reach me: 

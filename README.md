@@ -19,8 +19,5 @@ I specialize in the Python ecosystem and modern containerization practices:
 
 ---
 
-## 🚀 Animated Focus (Console Simulation)
-
-*This is a simulated console output to show what I'm currently focused on:*
 
 

@@ -1,22 +1,26 @@
-### Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+# Hi there! I'm [Your Name] 👋
 
-### My name is Yodgorbek
+## ⚡️ Building Backends from Tashkent
 
+I'm a driven **20-year-old** Backend Developer and aspiring Engineer based in **Tashkent, Uzbekistan**. My primary focus is on developing robust, efficient, and scalable web services and automated solutions.
 
+---
 
-<!-- <code><img src="https://www.nicepng.com/png/full/377-3771906_sass-sass-sass-sass-logo-white-png.png" width="30px"></code> -->
-<!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
+## 🛠️ My Primary Toolkit
 
-<br /> -->
+I specialize in the Python ecosystem and modern containerization practices:
 
+| Category | Skills & Tools | 
+| :--- | :--- | 
+| 🐍 **Backend Core** | **Python** (The foundation of my work) | 
+| 🕸️ **Web & API** | **Django** (Robust web framework), **Django REST Framework** (Building scalable APIs) | 
+| 🤖 **Automation** | **Aiogram** (Building high-performance Telegram bots) | 
+| 🐳 **DevOps** | **Docker** (Containerization and deployment) | 
 
-- 📍 &nbsp; Current location: Uzbekistan, Tashkent
-- 📝&nbsp; Ask me about anything, I am happy to help
+---
 
-![Python](https://img.shields.io/badge/python-blue.svg)
+## 🚀 Animated Focus (Console Simulation)
+
+*This is a simulated console output to show what I'm currently focused on:*
 
 

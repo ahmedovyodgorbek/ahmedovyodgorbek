@@ -1,4 +1,4 @@
-# Hi there! I'm Yodgorbek 👋
+# Hi there! I'm Yodgorbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 ## ⚡️ Building Backends from Tashkent
 
